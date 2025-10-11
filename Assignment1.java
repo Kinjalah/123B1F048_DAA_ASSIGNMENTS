@@ -16,7 +16,7 @@ class CustomerOrder {
     }
 }
 
-public class MergeSortOrders {
+public class Assignment1 {
 
     // Merge Sort 
     public static void mergeSort(CustomerOrder[] orders, int left, int right) {
