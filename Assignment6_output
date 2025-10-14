@@ -1,0 +1,16 @@
+Enter total number of essential items: 3
+Enter maximum truck capacity (in kg): 20
+
+Enter details for each item (weight in kg and utility value):
+Item 1 weight (kg): 12
+Item 1 utility value: 100
+Item 2 weight (kg): 18
+Item 2 utility value: 250
+Item 3 weight (kg): 6
+Item 3 utility value: 200
+
+Maximum Utility (Optimal Relief Load): 300
+Selected Items (1 = included, 0 = not included):
+Item 1 -> 1
+Item 2 -> 0
+Item 3 -> 1
