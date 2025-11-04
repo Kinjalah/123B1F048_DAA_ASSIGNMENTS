@@ -1,4 +1,8 @@
 /*
+Name: Kinjal Amit Heda
+PRN: 123B1F048
+Date: 23/09/25
+
 Scenario: Disaster Relief Resource Allocation
 A massive earthquake has struck a remote region, and a relief organization is transporting
 essential supplies to the affected area. The organization has a limited-capacity relief truck that
