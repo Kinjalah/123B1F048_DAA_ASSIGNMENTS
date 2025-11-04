@@ -106,3 +106,4 @@ public class Assignment5 {
 
         sc.close();
     }
+}
