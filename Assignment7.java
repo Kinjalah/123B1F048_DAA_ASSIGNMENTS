@@ -1,4 +1,8 @@
 /**
+Name: Kinjal Amit Heda
+PRN: 123B1F048
+Date: 30/09/25
+
 Scenario: University Timetable Scheduling
 A university is facing challenges in scheduling exam timetables due to overlapping student
 enrollments in multiple courses. To prevent clashes, the university needs to assign exam
